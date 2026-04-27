@@ -37,12 +37,14 @@ Dataset link: <https://www.kaggle.com/datasets/shivam2503/diamonds>
 git clone YOUR_REPO_LINK
 
 ```
-2.Install dependencies:
+2. Install dependencies:
+   
 ```bash
 pip install -r requirements.txt
 
 ```
-3.Open notebook:
+3. Open notebook:
+   
 ```bash
 jupyter notebook
 ```
